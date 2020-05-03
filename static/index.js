@@ -1,5 +1,6 @@
 function doRequest() {
-  fetch('https://tranquil-tundra-49110.herokuapp.com/test')
+  const baseURL = document.getElementById('baseURL').value;
+  fetch(`${baseURL}/test`)
     .then((response) => {
       console.log({ response });
     })
