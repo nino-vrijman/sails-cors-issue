@@ -2,15 +2,7 @@
 
 # Server
 
-```bash
-cd server
-npm install
-sails lift
-# or
-npm start
-```
-
-The server will be running on http://localhost:1337
+Server can be found [here](https://github.com/nino-vrijman/sails-cors-issue-server)
 
 # Client
 
