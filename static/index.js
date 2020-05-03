@@ -1,5 +1,5 @@
 function doRequest() {
-  fetch('https://tranquil-tundra-49110.herokuapp.com/')
+  fetch('https://tranquil-tundra-49110.herokuapp.com/test')
     .then((response) => {
       console.log({ response });
     })

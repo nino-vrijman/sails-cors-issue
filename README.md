@@ -12,4 +12,10 @@ npm install
 npm run start
 ```
 
+Or run
+
+```
+npm run start:server
+```
+
 The client will most likely be running on http://localhost:1234
